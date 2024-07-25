@@ -56,7 +56,7 @@ title: "Schedule"
 37| 15 April| SVM - III (QP, Kernels as similarity)|[Recording](https://www.youtube.com/watch?v=BLj0hhT-tL4)|[Notebook on QP](https://nipunbatra.github.io/ml-teaching/notebooks/svm-cvxopt.html), [Notebook on kernels-1](https://nipunbatra.github.io/ml-teaching/notebooks/svm-kernel-understanding.html)| |    
 38| 17 April| [SVM - IV (Kernel understanding, Soft Margin)](https://nipunbatra.github.io/ml-teaching/slides/svm-soft-margin.pdf)|[Recording](https://www.youtube.com/watch?v=QaYpHAc5N-A&list=PLftoLyLEwECDqanAL7LkZNnZG9VdNCiJF&index=32)|[Notebook on kernel understanding](https://nipunbatra.github.io/ml-teaching/notebooks/svm-kernel.html), [Notebook on soft margin](https://nipunbatra.github.io/ml-teaching/notebooks/svm-soft-margin.html)| |
 39| 19 April| Overall revision|
-<!--
+
 27| 18 March| [Naive Bayes]| [Recording]()|[Notebook]()| |
 28| 20 March| [KNN] |[Recording]()|[Notebook]()| |
 29| 1 April| [Unsupervised Learning - 1] |[Recording]()|[Notebook]()| |

@@ -1,7 +1,7 @@
 ---
 title: "Tentative deadlines"
 ---
-
+<!--
 
 - January 24: First assignment due
 - February 2: First quiz
@@ -12,3 +12,5 @@ title: "Tentative deadlines"
 - March 21: Third assignment due, fourth assignment released
 - April 15: Fourth assignment due
 - End sem: Fourth quiz
+
+-->
