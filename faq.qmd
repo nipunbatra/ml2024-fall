@@ -3,6 +3,7 @@ title: "FAQ"
 ---
 
 
+<!-- 
 #### Projects
 
 - Is there a project component in the course?
@@ -86,3 +87,5 @@ You are free to attend the lectures. However, given the limited number of TAs an
 Typically, we have been kindly provided with Google Cloud credits. We will update this section once we have the credits. Once you get these credits, you can use them for your assignments. They are more than sufficient for the assignments. 
 
 
+
+ -->

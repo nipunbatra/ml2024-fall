@@ -1,11 +1,11 @@
 ---
-title: "ES 335 Machine Learning"
+title: "ES 335 Machine Learning (August 2024)"
 ---
 
 
 ![](images/logo.jpeg)
 
-### Please join the [Slack channel](https://join.slack.com/t/es3352024/shared_invite/zt-29orttgk0-4cd1TIO1X8K6S1oJQka5PA) for the course.
+### Please join the [Slack channel](https://join.slack.com/t/es-335-fall-2024/shared_invite/zt-2mz08i9ur-uSgTNgmNsfmXnfjCTNPnew) for the course.
 
 ::: {.callout-tip}
 ## Summary
@@ -14,16 +14,7 @@ title: "ES 335 Machine Learning"
     * Office: 13/401C
     * [YouTube video](https://www.youtube.com/shorts/FmCbCkJQN1g) showing the directions to my office
 * Teaching Assistants: 
-    * Rishiraj Adhikary <rishiraj.a@iitgn.ac.in>
-    * Inderjeet Bhullar <inderjeet.bhullar@iitgn.ac.in>
-    * Rahul Chembakasseril <rahul.chembakasseril@iitgn.ac.in>
-    * R Yeeshu Dhurandhar <r.yeeshu@iitgn.ac.in>
-    * Suraj Jaiswal <jaiswalsuraj@iitgn.ac.in>
-    * Kalash Kankaria <kalash.kankaria@iitgn.ac.in>,
-    * Sukruta Midigeshi <sukruta.midigeshi@iitgn.ac.in>
-    * Chirag Sarda <chirag.sarda@iitgn.ac.in>,
     * Ayush Shrivastava <shrivastavaayush@iitgn.ac.in>
-    * Sai Krishna <avulasaikrishna@iitgn.ac.in>
 * Course Timings:
     * Lectures:  Monday, Wednesday 8:30 AM to 10 AM in 10/103
     * Tutorials: Friday: 1130 to 1 PM in 10/103
@@ -35,7 +26,7 @@ title: "ES 335 Machine Learning"
 ::: {.callout-tip}
 ## Pre-requisite exam
 
-The [pre-requisite exam](exams/prereq.qmd) has to be submitted by 6th January 2024, 9 PM. Details on how to submit the exam are given in the exam itself. The exam is open book and open internet.
+The [pre-requisite exam](exams/prereq.qmd) has to be submitted by 6th August 2024, 9 PM. Details on how to submit the exam are given in the exam itself. The exam is open book and open internet.
 :::
 
 
