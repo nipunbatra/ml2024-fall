@@ -1,18 +1,17 @@
 ---
 title: "Schedule"
 ---
- <! -- your comment
+
 ::: {.callout-tip}
 ## Summary
 
 * [Github repo containing source code for lectures and notebooks](https://github.com/nipunbatra/ml-teaching)
 * [PDF Lecture slides](https://nipunbatra.github.io/ml-teaching/slides.html)
 * [Rendered Lecture notebooks](https://nipunbatra.github.io/ml-teaching/notebooks.html)
-* [YouTube playlist containing recodings](https://www.youtube.com/playlist?list=PLftoLyLEwECDqanAL7LkZNnZG9VdNCiJF)
 
 :::
 
-
+ <! -- your comment
 | Lecture # |    Date     | Topic (Slides)                                  | Notebooks | YouTube Recording | Reading |
 | :-------: | :---------: | :---------------------------------------------- | :-------: | --------- | ------- |
 |     0     | 30 Dec 2023 | [Pre-requisite quiz released](exams/prereq.qmd) |           |           |         |

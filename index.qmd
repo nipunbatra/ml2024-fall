@@ -16,8 +16,8 @@ title: "ES 335 Machine Learning (August 2024)"
 * Teaching Assistants: 
     * Ayush Shrivastava <shrivastavaayush@iitgn.ac.in>
 * Course Timings:
-    * Lectures:  Monday, Wednesday 8:30 AM to 10 AM in 10/103
-    * Tutorials: Friday: 1130 to 1 PM in 10/103
+    * Lectures:  10/103
+    * Tutorials:  10/103
 
 :::
 

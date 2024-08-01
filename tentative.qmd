@@ -1,16 +1,17 @@
 ---
 title: "Tentative deadlines"
 ---
-<!--
 
-- January 24: First assignment due
-- February 2: First quiz
-- Early Feb: Second assignment released
-- Sometime in February 19-23 as per academic calendar during mid sem exams: Second quiz
-- March 1: Second assignment due, third assignment released
-- March 15: Third quiz
-- March 21: Third assignment due, fourth assignment released
-- April 15: Fourth assignment due
-- End sem: Fourth quiz
 
--->
+- First week August: Prerequisite exam due
+- August 13: Add/Drop period ends
+- August 24: First assignment due
+- September 1: Second assignment released
+- September 2: First quiz
+- Setember 15: Second assignment due
+- September 27 - October 4 during mid sem exams: Second quiz
+- October 25: Third assignment due
+- October 29: Third quiz
+- November 15: Fourth assignment due
+- Nov 23 to 29 End sem: week Fourth quiz
+
