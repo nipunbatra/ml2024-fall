@@ -3,7 +3,7 @@ title: "FAQ"
 ---
 
 
-<!-- 
+
 #### Projects
 
 - Is there a project component in the course?
@@ -88,4 +88,3 @@ Typically, we have been kindly provided with Google Cloud credits. We will updat
 
 
 
- -->
