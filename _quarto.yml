@@ -15,7 +15,7 @@ website:
       - href: faq.qmd
         text: FAQs
       - href: schedule.qmd
-        text: Lectures (+Recordings)
+        text: Lectures
       - href: tentative.qmd
         text: Tentative deadlines
       - href: https://nipunbatra.github.io
