@@ -25,6 +25,7 @@ title: "Schedule"
 |8| 21 Aug| [Linear Regression](https://nipunbatra.github.io/ml-teaching/slides/linear-regression.pdf)|||
 |9| 23 Aug| [Linear Regression: Basis Functions](https://nipunbatra.github.io/ml-teaching/slides/linear-regression.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/basis.html)||
 |10| 27 Aug| [Linear Regression: Geometric Interpretation, Multi-colinearity, Dummy Variables](https://nipunbatra.github.io/ml-teaching/slides/linear-regression.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/geometric-linear-regression.html), [Notebook on multi-colinearlity](https://nipunbatra.github.io/ml-teaching/notebooks/dummy-variables-multi-colinearity.html)||
+11| 29 Aug | [Gradient Descent](https://nipunbatra.github.io/ml-teaching/slides/gradient-descent.pdf) |[Notebook on Taylor's series](https://nipunbatra.github.io/ml-teaching/notebooks/taylor.html), [Notebook on Contour plots and gradient descent](https://nipunbatra.github.io/ml-teaching/notebooks/contour.html)| |
 
 <!-- your comment
 
