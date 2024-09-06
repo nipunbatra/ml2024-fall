@@ -34,13 +34,16 @@ Here is the [leave form](https://docs.google.com/forms/d/1efg5pt10GssAmyxIF83reF
 BONUS (above 100%)
 
 - Kaggle like competition bonus: (subject to change)
-    - 80th percentile: 1%
-    - 95th percentile: 3%
-    - Top three: 5%
+    - participated: 0.5%
+    - 50th percentile: 1%
+    - 75th percentile: 1.5%
+    - 90th percentile: 2%
+    - 95th percentile: 2.5%
+    - Top three: 3%
 
 ---
 
-- Upto 4% extra marks for answering questions in classes. Each question will be worth 0.5%. Thus, a student can avail this a maximum of 8 times. It is upto the discretion of the instructor to award these marks.
+- Upto 1.5% extra marks for answering questions in classes. Each question will be worth 0.5%. Thus, a student can avail this a maximum of 3 times. It is upto the discretion of the instructor to award these marks.
 
 
 
