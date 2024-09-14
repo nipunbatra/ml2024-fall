@@ -26,7 +26,13 @@ title: "Schedule"
 |9| 23 Aug| [Linear Regression: Basis Functions](https://nipunbatra.github.io/ml-teaching/slides/linear-regression.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/basis.html)||
 |10| 27 Aug| [Linear Regression: Geometric Interpretation, Multi-colinearity, Dummy Variables](https://nipunbatra.github.io/ml-teaching/slides/linear-regression.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/geometric-linear-regression.html), [Notebook on multi-colinearlity](https://nipunbatra.github.io/ml-teaching/notebooks/dummy-variables-multi-colinearity.html)||
 11| 29 Aug | [Gradient Descent](https://nipunbatra.github.io/ml-teaching/slides/gradient-descent.pdf) |[Notebook on Taylor's series](https://nipunbatra.github.io/ml-teaching/notebooks/taylor.html), [Notebook on Contour plots and gradient descent](https://nipunbatra.github.io/ml-teaching/notebooks/contour.html)| |
-
+12| 30 Aug||||
+13| 3 Sep | Quiz|||
+14| 5 Sep | Quiz discussion|||
+15| 6 Sep |[Gradient Descent](https://nipunbatra.github.io/ml-teaching/slides/gradient-descent.pdf) |[Notebook on Taylor's series](https://nipunbatra.github.io/ml-teaching/notebooks/taylor.html), [Notebook on Contour plots and gradient descent](https://nipunbatra.github.io/ml-teaching/notebooks/contour.html)| |
+16| 10 Sep| [Movie recommendation, Matrix Factorisation](https://nipunbatra.github.io/ml-teaching/slides/MovieRecommendation.pdf)|[Notebook on Movie Recommendation](https://nipunbatra.github.io/ml-teaching/notebooks/movie-recommendation-knn-mf.html)||
+17| 12 Sep| Regularised Linear Regression: [Ridge Regression](https://nipunbatra.github.io/ml-teaching/slides/ridge-regression.pdf), [LASSO Regression](https://nipunbatra.github.io/ml-teaching/slides/lasso-regression.pdf)| | |
+18| 13 Sep| [Logistic Regression](https://nipunbatra.github.io/ml-teaching/slides/logistic-1.pdf)|[Notebook on why use logits](https://nipunbatra.github.io/ml-teaching/notebooks/logits-usage.html), [Notebook on Logistic regression in Torch](https://nipunbatra.github.io/ml-teaching/notebooks/logistic-regression-torch.html)| |
 <!-- your comment
 
 |6| 15 Jan| Cross-validation, [Ensemble Methods](https://nipunbatra.github.io/ml-teaching/slides/ensemble.pdf)| [Cross-validation and tuning hyperparameters](https://nipunbatra.github.io/ml-teaching/notebooks/hyperparams-experiments.html)| [Recording](https://www.youtube.com/watch?v=FrNR-1cfpHc)||
