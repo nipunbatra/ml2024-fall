@@ -33,6 +33,11 @@ title: "Schedule"
 16| 10 Sep| [Movie recommendation, Matrix Factorisation](https://nipunbatra.github.io/ml-teaching/slides/MovieRecommendation.pdf)|[Notebook on Movie Recommendation](https://nipunbatra.github.io/ml-teaching/notebooks/movie-recommendation-knn-mf.html)||
 17| 12 Sep| Regularised Linear Regression: [Ridge Regression](https://nipunbatra.github.io/ml-teaching/slides/ridge-regression.pdf), [LASSO Regression](https://nipunbatra.github.io/ml-teaching/slides/lasso-regression.pdf)| | |
 18| 13 Sep| [Logistic Regression](https://nipunbatra.github.io/ml-teaching/slides/logistic-1.pdf)|[Notebook on why use logits](https://nipunbatra.github.io/ml-teaching/notebooks/logits-usage.html), [Notebook on Logistic regression in Torch](https://nipunbatra.github.io/ml-teaching/notebooks/logistic-regression-torch.html)| |
+19| 17 Sep| [Logistic Regression](https://nipunbatra.github.io/ml-teaching/slides/logistic-1.pdf)|[Notebook on why use logits](https://nipunbatra.github.io/ml-teaching/notebooks/logits-usage.html), [Notebook on Logistic regression in Torch](https://nipunbatra.github.io/ml-teaching/notebooks/logistic-regression-torch.html)| |
+20| 19 Sep| [Tutorial on convexity](https://nipunbatra.github.io/ml-teaching/slides/convexity.pdf)|| |
+21| 20 Sep| [Weighted Linear regression](https://nipunbatra.github.io/ml-teaching/slides/Weighted-least.pdf), [Convexity of Cross-entropy loss function for logistic regression and IRLS](https://nipunbatra.github.io/ml-teaching/slides/Logistic-Hessian.pdf)|| |
+22| 24 Sep| Precision recall curve, [MLP-1](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf)|| |
+
 <!-- your comment
 
 |6| 15 Jan| Cross-validation, [Ensemble Methods](https://nipunbatra.github.io/ml-teaching/slides/ensemble.pdf)| [Cross-validation and tuning hyperparameters](https://nipunbatra.github.io/ml-teaching/notebooks/hyperparams-experiments.html)| [Recording](https://www.youtube.com/watch?v=FrNR-1cfpHc)||
