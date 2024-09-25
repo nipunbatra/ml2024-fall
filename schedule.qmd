@@ -36,7 +36,7 @@ title: "Schedule"
 19| 17 Sep| [Logistic Regression](https://nipunbatra.github.io/ml-teaching/slides/logistic-1.pdf)|[Notebook on why use logits](https://nipunbatra.github.io/ml-teaching/notebooks/logits-usage.html), [Notebook on Logistic regression in Torch](https://nipunbatra.github.io/ml-teaching/notebooks/logistic-regression-torch.html)| |
 20| 19 Sep| [Tutorial on convexity](https://nipunbatra.github.io/ml-teaching/slides/convexity.pdf)|| |
 21| 20 Sep| [Weighted Linear regression](https://nipunbatra.github.io/ml-teaching/slides/Weighted-least.pdf), [Convexity of Cross-entropy loss function for logistic regression and IRLS](https://nipunbatra.github.io/ml-teaching/slides/Logistic-Hessian.pdf)|| |
-22| 24 Sep| Precision recall curve, [MLP-1](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf)|| |
+22| 24 Sep| Precision recall curve, [MLP-1](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf)|[Notebook on precision recall curves](https://nipunbatra.github.io/ml-teaching/notebooks/pr-curve.html)| |
 
 <!-- your comment
 
