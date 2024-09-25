@@ -41,11 +41,13 @@ Course preparation: Students are encouraged to study some of the following to re
 *  First four chapters of the [Python Data Science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 *   [Some material on Linear Algebra](https://machinelearningmastery.com/linear-algebra-machine-learning/)
 *   [Khan academy course on Stats and Probability](https://www.khanacademy.org/math/statistics-probability)
+* Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. [\[Freely available online\]](https://mml-book.github.io/book/mml-book.pdf)
 
 
 
 ### Reference textbooks:
 
+0. Mathematics for Machine Learning by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. [\[Freely available online\]](https://mml-book.github.io/book/mml-book.pdf)
 1.  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 2.  Christopher Bishop. Pattern Recognition and Machine Learning. Springer, 2006.[\[Freely available online\]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 3.  Friedman J, Hastie T, Tibshirani R. The elements of statistical learning. New York, NY, USA:: Springer series in statistics; 2001.[\[Freely available online\]](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
