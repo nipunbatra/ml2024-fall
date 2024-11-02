@@ -37,6 +37,16 @@ title: "Schedule"
 20| 19 Sep| [Tutorial on convexity](https://nipunbatra.github.io/ml-teaching/slides/convexity.pdf)|| |
 21| 20 Sep| [Weighted Linear regression](https://nipunbatra.github.io/ml-teaching/slides/Weighted-least.pdf), [Convexity of Cross-entropy loss function for logistic regression and IRLS](https://nipunbatra.github.io/ml-teaching/slides/Logistic-Hessian.pdf)|| |
 22| 24 Sep| Precision recall curve, [MLP-1](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf)|[Notebook on precision recall curves](https://nipunbatra.github.io/ml-teaching/notebooks/pr-curve.html)| |
+23| 26 Sep|[MLP I](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf) ||
+24| 15 Oct|[MLP II](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf) ||
+25| 17 Oct| [Autograd](https://nipunbatra.github.io/ml-teaching/slides/autograd.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/autodiff.html)||
+26| 18 Oct| Next work prediction [[Slides](lectures/next-token.pdf)], [Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/names.html)||
+28| 22 Oct| [CNN - I](https://nipunbatra.github.io/ml-teaching/slides/CNN.pdf), [1D CNN](https://nipunbatra.github.io/ml-teaching/slides/1d-cnn.pdf) [Notebook 1](https://nipunbatra.github.io/ml-teaching/notebooks/1d-cnn.html), [Notebook 2 on edge detection](https://nipunbatra.github.io/ml-teaching/notebooks/cnn-edge.html), [Notebook 3 on LeNet](https://nipunbatra.github.io/ml-teaching/notebooks/cnn.html)| |
+29| 24 Oct| [CNN - II](https://nipunbatra.github.io/ml-teaching/slides/CNN.pdf) ||
+30| 25 Oct|Object detection tutorial + How to setup Kaggle||
+31| 29 Oct| [Unsupervised learning](https://nipunbatra.github.io/ml-teaching/slides/unsupervised.pdf)||
+32| 1 Nov| [KNN](https://nipunbatra.github.io/ml-teaching/slides/knn.pdf), [Approximate KNN](https://nipunbatra.github.io/ml-teaching/slides/KNN-approx.pdf)| |[Notebook (Parametric v/s Non-Parametric)](https://nipunbatra.github.io/ml2023/notebooks/posts/parametric-non-parametric.html), [Notebook (Curse of dimensionality)](https://nipunbatra.github.io/ml-teaching/notebooks/curse-dimensionality)| Reference on Parameteric v/s Non-Parametric [from MLSS](http://mlss.tuebingen.mpg.de/2015/slides/ghahramani/gp-neural-nets15.pdf), [ML Mastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/), [StackExchange](https://stats.stackexchange.com/questions/268638/what-exactly-is-the-difference-between-a-parametric-and-non-parametric-model), [Sebastian Raschka's blog](https://sebastianraschka.com/faq/docs/parametric_vs_nonparametric.html) |
+
 
 <!-- your comment
 
