@@ -40,7 +40,7 @@ title: "Schedule"
 23| 26 Sep|[MLP I](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf) ||
 24| 15 Oct|[MLP II](https://nipunbatra.github.io/ml-teaching/slides/mlp.pdf) ||
 25| 17 Oct| [Autograd](https://nipunbatra.github.io/ml-teaching/slides/autograd.pdf)|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/autodiff.html)||
-26| 18 Oct| Next work prediction [[Slides](lectures/next-token.pdf)], [Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/names.html)||
+26| 18 Oct| Next word prediction [[Slides](https://nipunbatra.github.io/ml-teaching/slides/next-token.pdf)], [Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/names.html)||
 28| 22 Oct| [CNN - I](https://nipunbatra.github.io/ml-teaching/slides/CNN.pdf), [1D CNN](https://nipunbatra.github.io/ml-teaching/slides/1d-cnn.pdf) [Notebook 1](https://nipunbatra.github.io/ml-teaching/notebooks/1d-cnn.html), [Notebook 2 on edge detection](https://nipunbatra.github.io/ml-teaching/notebooks/cnn-edge.html), [Notebook 3 on LeNet](https://nipunbatra.github.io/ml-teaching/notebooks/cnn.html)| |
 29| 24 Oct| [CNN - II](https://nipunbatra.github.io/ml-teaching/slides/CNN.pdf) ||
 30| 25 Oct|Object detection tutorial + How to setup Kaggle||
