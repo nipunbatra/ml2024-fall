@@ -46,7 +46,12 @@ title: "Schedule"
 30| 25 Oct|Object detection tutorial + How to setup Kaggle||
 31| 29 Oct| [Unsupervised learning](https://nipunbatra.github.io/ml-teaching/slides/unsupervised.pdf)||
 32| 1 Nov| [KNN](https://nipunbatra.github.io/ml-teaching/slides/knn.pdf), [Approximate KNN](https://nipunbatra.github.io/ml-teaching/slides/KNN-approx.pdf)| |[Notebook (Parametric v/s Non-Parametric)](https://nipunbatra.github.io/ml2023/notebooks/posts/parametric-non-parametric.html), [Notebook (Curse of dimensionality)](https://nipunbatra.github.io/ml-teaching/notebooks/curse-dimensionality)| Reference on Parameteric v/s Non-Parametric [from MLSS](http://mlss.tuebingen.mpg.de/2015/slides/ghahramani/gp-neural-nets15.pdf), [ML Mastery](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/), [StackExchange](https://stats.stackexchange.com/questions/268638/what-exactly-is-the-difference-between-a-parametric-and-non-parametric-model), [Sebastian Raschka's blog](https://sebastianraschka.com/faq/docs/parametric_vs_nonparametric.html) |
-
+33| 5 Nov| [Reinforcement learning](https://nipunbatra.github.io/ml-teaching/slides/rl.pdf)|[Notebook 1](https://nipunbatra.github.io/ml-teaching/notebooks/rl-1.html), [Notebook 2](https://nipunbatra.github.io/ml-teaching/notebooks/rl-2.html)| |
+34| 7 Nov| [SVM-1]||
+35| 12 Nov| [SVM-2]||
+36| 14 Nov| [Tutorial on constrained Optimization]||
+37| 19 Nov| [SVM-3]||
+38| 21 Nov| [SVM-4]||
 
 <!-- your comment
 
