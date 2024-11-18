@@ -50,7 +50,7 @@ title: "Schedule"
 34| 7 Nov| [SVM - I](https://nipunbatra.github.io/ml-teaching/slides/svm-intro.pdf)|[Notebook 1](https://nipunbatra.github.io/ml-teaching/notebooks/svm.html)|
 35| 12 Nov| [SVM-2 Kernels (slides from previous lecture)]|[Notebook](https://nipunbatra.github.io/ml-teaching/notebooks/svm-primal-dual.html), [Notebook 2](https://nipunbatra.github.io/ml-teaching/notebooks/svm-kernel.html)||
 36| 14 Nov| [Constrained Optimization 1](https://nipunbatra.github.io/ml-teaching/slides/constrained-1.pdf), [Constrained Optimization 2 (self study)](https://nipunbatra.github.io/ml-teaching/slides/constrained-2.pdf)| [Part 2 recording from older run](https://www.youtube.com/watch?v=Gr1o97QI1PI)|
-37| 19 Nov| [Support Vector Machines (Soft Margin)](lectures/svm-soft-margin.pdf)|
+37| 19 Nov| [Support Vector Machines (Soft Margin)](https://nipunbatra.github.io/ml-teaching/slides/svm-soft-margin.pdf)|
 
 <!-- your comment
 
