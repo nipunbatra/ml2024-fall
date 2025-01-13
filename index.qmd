@@ -14,7 +14,17 @@ title: "ES 335 Machine Learning (August 2024)"
     * Office: 13/401C
     * [YouTube video](https://www.youtube.com/shorts/FmCbCkJQN1g) showing the directions to my office
 * Teaching Assistants: 
+    * Anupam Sharma <sharmaanupam@iitgn.ac.in>
     * Ayush Shrivastava <shrivastavaayush@iitgn.ac.in>
+    * Eshwar Dhande <eshwar.dhande@iitgn.ac.in>
+    * Isha Narang <isha.narang@iitgn.ac.in>
+    * Prince Kumar <prince.kumar@iitgn.ac.in>
+    * Sawan Verma <sawan.verma@iitgn.ac.in>
+    * Shataxi Dubey <shataxi.dubey@iitgn.ac.in>
+    * Aadya Arora <aadya.arora@iitgn.ac.in>
+    * Bhoumik Patidar <bhoumik.patidar@iitgn.ac.in>
+    * Guntas Singh Saran <guntassingh.saran@iitgn.ac.in>
+    * Hrriday Ruparel <hrriday.ruparel@iitgn.ac.in>
 * Course Timings:
     * Lectures:  10/103
     * Tutorials:  10/103
