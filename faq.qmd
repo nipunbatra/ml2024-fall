@@ -1,90 +1,157 @@
 ---
-title: "FAQ"
+title: "Questions"
 ---
 
+## Projects
 
+<details class="q" id="is-there-a-project-in-the-course"><summary>Is there a project component in the course?</summary>
 
-#### Projects
+Yes and no. Each assignment has a project-like question, the same for all students, so it is a more structured project. There is no separate project component: we feel this gives you a better understanding of the concepts, and the added structure helps you get started.
 
-- Is there a project component in the course?
-    - Yes and No. We will have a project-like question in each of your assignments. This will be a more "structured" project in that sense and all students would have the same question. However, there is no separate project component in the course. We feel this will help you get a better understanding of the concepts covered in the course, and the added structure will help you get started with the project.
+</details>
 
-- Can you give an example of the project question?
-    - Sure. We will build an activity classifier: walking, running, etc. Initially, we use publicly available datasets to build the classifier. We will then help you with collecting your data using your smartphone and build a classifier using your data. Those who want to go beyond the learning objectives, can deploy the classifier on your smartphone.
+<details class="q" id="what-does-a-project-question-look-like"><summary>Can you give an example of a project question?</summary>
 
----
+An activity classifier (walking, running and so on). We start with publicly available datasets, then help you collect your own data with a smartphone and build a classifier on it. Those who want to go beyond the learning objectives can deploy the classifier on their smartphone.
 
-#### Prerequisites
+</details>
 
-- What are the course prerequisites?
-    - The course has no "formal" prerequisites like all courses at IITGn. However, it is assumed that you have a basic understanding of: 
-        - programming (Python), and data structures (ES242 equivalent)
-        - probability and statistics 
-        - linear algebra 
-        - calculus 
-- What is the prerequisite exam?
-    - This is an exam that we have designed to ensure that you have the necessary background to take the course.
-- How can I prepare for the prerequisite exam?
-    - Your UG course material should be sufficient to prepare for the exam.
-    - You may additionally refer to the "prerequisite" reading section on the [course homepage](./index.html).
-- What happens if I do not clear the prerequisite exam?
-    - You will not be allowed to take the course.
-- What do you mean by "clear" the exam?
-    - Like all courses at IITGn, the instructor will decide the cut-off for the exam. You will have to score above the cut-off to clear the exam. No cut-off will be revealed to the students apriori.
+## Prerequisites
 
----
+<details class="q" id="what-are-the-prerequisites"><summary>What are the course prerequisites?</summary>
 
-#### Laptop policy
+Like all courses at IIT Gandhinagar, there are no formal prerequisites, but you are assumed to have a basic understanding of:
 
-- Can I use my laptop in the class?
-    - No. You are not allowed to use your laptop in the class for any reason.
+- programming in Python, and data structures (ES 242 or equivalent)
+- probability and statistics
+- linear algebra
+- calculus
 
-#### Quizzes
+</details>
 
-- What happens if I miss a quiz due to any reason?
-    - The quiz will be marked as 0.
-    - The provision of best 3 out of 4 quizzes is designed keeping in mind such scenarios.
-- Will the quizzes and end-semester exam be open book? Will I be allowed to carry notes?
-    - No, the exams and quizzes will be closed book. You are not permitted to carry notes.
-- How soon can I expect to receive my answer sheets back?
-    - You should expect to receive answer sheets back in 4-5 working days.
-- Is there an end-semester exam or mid-semester exam?
-    - 2 out of the 4 quizzes will be held in the mid-semester and end-semester slots. The remaining two quizzes will be held during the semester.
-- Will the quizzes be MCQs or subjective?
-    - The quizzes may contain both the MCQs and subjective questions.
----
+<details class="q" id="what-is-the-prerequisite-exam"><summary>What is the prerequisite exam?</summary>
 
-#### Assignments
-- What happens if I miss an assignment due to any reason?
-    - There will no extensions for assignments.
-- I have a doubt in the assignment. Whom should I write to?
-    - Ask on the slack #assignments channel. If you don't get a response within 2 days, write to the course instructor.
-- I do not know Python. Can I code assignments in some other language?
-    - Unfortunately, no. You have to stick to Python.
-- How will you evaluate the assignment?
-    - The assignments would be followed by a viva. The TAs would first check the code and compare against the submission. Any change from the submitted code is not allowed and any instance of the same would culminate in a warning. The TAs would run the code and ask a few questions. About 75% of these questions would be based on the assignment in question and about 25% would be based on the theory behind the concepts covered in the assignment. 
-    - The grade breakup would be: i) code runs correctly and solves the problem [50% marks]; ii) questions based on the assignment and student understanding of code [25% marks]; iii) code quality [12.5% marks]; iv) questions based on the theory behind the concepts covered in the assignments [12.5% marks]
-- Is the assignment individual or group?
-    - The assignment is group. In case of group, all team members get the same grade for the assignment.
+An [exam](exams/prereq.qmd) designed to make sure you have the background needed for the course.
 
----
+</details>
 
-#### Attendance
+<details class="q" id="how-do-i-prepare-for-the-prerequisite-exam"><summary>How can I prepare for the prerequisite exam?</summary>
 
-- Attendance policy
-    - Attendance is mentioned in the grading policy clearly.  
+Your undergraduate course material should be enough. You can also use the preparation material listed under [References](index.qmd#references) on the home page.
 
----
+</details>
 
-#### Audit policy
+<details class="q" id="what-if-i-do-not-clear-the-prerequisite-exam"><summary>What happens if I do not clear the prerequisite exam?</summary>
 
-You are free to attend the lectures. However, given the limited number of TAs and the large number of students, we will not be able to grade your submissions. You can not formally contribute to any team in their assignments. 
+You will not be allowed to take the course.
 
----
+</details>
 
-#### Computational resources
+<details class="q" id="what-does-clear-the-exam-mean"><summary>What does it mean to clear the exam?</summary>
 
-Typically, we have been kindly provided with Google Cloud credits. We will update this section once we have the credits. Once you get these credits, you can use them for your assignments. They are more than sufficient for the assignments. 
+As in all courses at IIT Gandhinagar, the instructor decides the cut-off, and you must score above it. The cut-off is not revealed in advance.
 
+</details>
 
+## Laptop policy
 
+<details class="q" id="can-i-use-my-laptop-in-class"><summary>Can I use my laptop in class?</summary>
+
+No. Laptops are not allowed in class for any reason.
+
+</details>
+
+## Quizzes
+
+<details class="q" id="what-if-i-miss-a-quiz"><summary>What happens if I miss a quiz for any reason?</summary>
+
+The quiz is marked zero. Counting the best three of four quizzes is designed for such cases.
+
+</details>
+
+<details class="q" id="are-quizzes-open-book"><summary>Are the quizzes and exams open book? Can I bring notes?</summary>
+
+No. Quizzes and exams are closed book, and notes are not permitted.
+
+</details>
+
+<details class="q" id="when-are-answer-sheets-returned"><summary>How soon will I get my answer sheets back?</summary>
+
+Within four to five working days.
+
+</details>
+
+<details class="q" id="is-there-a-mid-or-end-semester-exam"><summary>Is there a mid-semester or end-semester exam?</summary>
+
+Two of the four quizzes are held in the mid-semester and end-semester exam slots. The other two are held during the semester.
+
+</details>
+
+<details class="q" id="quiz-format"><summary>Are the quizzes multiple choice or written?</summary>
+
+They may contain both multiple-choice and written questions.
+
+</details>
+
+## Assignments
+
+<details class="q" id="what-if-i-miss-an-assignment"><summary>What happens if I miss an assignment deadline?</summary>
+
+There are no extensions for assignments.
+
+</details>
+
+<details class="q" id="whom-do-i-ask-about-an-assignment"><summary>I have a doubt about an assignment. Whom should I ask?</summary>
+
+Ask on the #assignments channel on Slack. If you do not get a reply within two days, write to the instructor.
+
+</details>
+
+<details class="q" id="can-i-use-another-language"><summary>I do not know Python. Can I write assignments in another language?</summary>
+
+No. Assignments must be written in Python.
+
+</details>
+
+<details class="q" id="how-are-assignments-evaluated"><summary>How are assignments evaluated?</summary>
+
+Each assignment is followed by a viva. The TAs first check that the code matches your submission; any change from the submitted code draws a warning. They then run the code and ask a few questions: about 75% on the assignment itself and about 25% on the theory behind it.
+
+The marks are split as follows:
+
+- the code runs correctly and solves the problem: 50%
+- questions on the assignment and your understanding of the code: 25%
+- code quality: 12.5%
+- questions on the theory behind the assignment: 12.5%
+
+</details>
+
+<details class="q" id="individual-or-group"><summary>Are assignments individual or in groups?</summary>
+
+In groups. All members of a group get the same grade.
+
+</details>
+
+## Attendance
+
+<details class="q" id="attendance-policy"><summary>What is the attendance policy?</summary>
+
+See [Attendance](assessment.qmd#attendance) under Assessment.
+
+</details>
+
+## Auditing
+
+<details class="q" id="audit-policy"><summary>Can I audit the course?</summary>
+
+You are free to attend the lectures. With a limited number of TAs and many students, we cannot grade your submissions, and you cannot formally contribute to a team's assignments.
+
+</details>
+
+## Computing resources
+
+<details class="q" id="computational-resources"><summary>Will I get computing resources?</summary>
+
+Typically the course has been given Google Cloud credits, which are more than sufficient for the assignments. This section will be updated once the credits are available.
+
+</details>

@@ -1,0 +1,24 @@
+<!-- Course dates, shared by Assessment. Write dates as "08 Oct 24" or "08 Oct 24, 6:30 pm" (IST);
+     the page greys out past rows and draws the Today line from the date in the browser. -->
+
+::: {.dates}
+
+| Date | Event |
+|---|---|
+| 25 Jul 24 | [Prerequisite test released](exams/prereq.qmd) |
+| 02 Aug 24 | First lecture |
+| 06 Aug 24 | [Prerequisite test due](exams/prereq.qmd) |
+| 13 Aug 24 | Add–drop period ends |
+| 24 Aug 24 | Assignment 1 due |
+| 01 Sep 24 | Assignment 2 released |
+| 03 Sep 24 | **Quiz 1** |
+| 05 Sep 24 | Quiz 1 discussion in class |
+| 15 Sep 24 | Assignment 2 due |
+| 27 Sep – 04 Oct 24 | **Quiz 2**, in the mid-semester exam week |
+| 25 Oct 24 | Assignment 3 due |
+| 29 Oct 24 | **Quiz 3** (planned) |
+| 15 Nov 24 | Assignment 4 due |
+| 19 Nov 24 | Last lecture |
+| 23–29 Nov 24 | **Quiz 4**, in the end-semester exam week |
+
+:::

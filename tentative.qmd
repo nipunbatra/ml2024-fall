@@ -1,17 +1,10 @@
 ---
-title: "Tentative deadlines"
+title: "Deadlines"
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=assessment.html#deadlines">
+    <link rel="canonical" href="https://nipunbatra.github.io/ml2024-fall/assessment.html#deadlines">
+    <meta name="robots" content="noindex">
 ---
 
-
-- First week August: Prerequisite exam due
-- August 13: Add/Drop period ends
-- August 24: First assignment due
-- September 1: Second assignment released
-- September 2: First quiz
-- Setember 15: Second assignment due
-- September 27 - October 4 during mid sem exams: Second quiz
-- October 25: Third assignment due
-- October 29: Third quiz
-- November 15: Fourth assignment due
-- Nov 23 to 29 End sem: week Fourth quiz
-
+This page has moved: [go to Dates](/assessment.html#deadlines).
